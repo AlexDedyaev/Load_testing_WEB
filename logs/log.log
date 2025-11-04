@@ -1,0 +1,30 @@
+1762270523373,480,Переход на главную страницу,200,OK,Thread Group 1-1,text,true,,82191,6235,1,1,http://localhost:8000/client/index.php,22,0,15
+1762270523373,28,Переход на главную страницу-0,302,Found,Thread Group 1-1,text,true,,1148,628,1,1,http://localhost:8000/,22,0,15
+1762270523405,17,Переход на главную страницу-1,200,OK,Thread Group 1-1,text,true,,5062,696,1,1,http://localhost:8000/client/index.php,17,0,0
+1762270523514,6,Переход на главную страницу-2,200,OK,Thread Group 1-1,text,true,,6361,704,1,1,http://localhost:8000/client/css/normalize.css,6,0,2
+1762270523514,6,Переход на главную страницу-3,200,OK,Thread Group 1-1,text,true,,9117,701,1,1,http://localhost:8000/client/css/styles.css,6,0,2
+1762270523514,4,Переход на главную страницу-4,200,OK,Thread Group 1-1,text,true,,3699,698,1,1,http://localhost:8000/client/js/index.js,4,0,0
+1762270523514,339,Переход на главную страницу-5,200,OK,Thread Group 1-1,text,true,,2016,714,1,1,"https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900&subset=cyrillic,cyrillic-ext,latin-ext",338,0,306
+1762270523515,5,Переход на главную страницу-6,200,OK,Thread Group 1-1,bin,true,,18263,698,1,1,http://localhost:8000/img/posters/80.png,5,0,2
+1762270523515,6,Переход на главную страницу-7,200,OK,Thread Group 1-1,bin,true,,18263,698,1,1,http://localhost:8000/img/posters/82.png,6,0,2
+1762270523519,3,Переход на главную страницу-8,200,OK,Thread Group 1-1,bin,true,,18262,698,1,1,http://localhost:8000/img/posters/81.png,3,0,0
+1762270524873,54,"Выбрать фильм, зал, время",200,OK,Thread Group 1-1,text,true,,8571,6135,1,1,http://localhost:8000/client/hall.php,12,0,0
+1762270524873,12,"Выбрать фильм, зал, время-0",200,OK,Thread Group 1-1,text,true,,5062,696,1,1,http://localhost:8000/client/hall.php,12,0,0
+1762270524896,3,"Выбрать фильм, зал, время-1",304,Not Modified,Thread Group 1-1,,true,,249,792,1,1,http://localhost:8000/client/css/normalize.css,0,0,0
+1762270524896,3,"Выбрать фильм, зал, время-2",304,Not Modified,Thread Group 1-1,,true,,249,789,1,1,http://localhost:8000/client/css/styles.css,0,0,0
+1762270524896,3,"Выбрать фильм, зал, время-3",304,Not Modified,Thread Group 1-1,,true,,248,785,1,1,http://localhost:8000/client/js/index.js,0,0,0
+1762270524896,31,"Выбрать фильм, зал, время-4",200,OK,Thread Group 1-1,text,true,,2016,715,1,1,"https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900&subset=cyrillic,cyrillic-ext,latin-ext",30,0,0
+1762270524896,3,"Выбрать фильм, зал, время-5",304,Not Modified,Thread Group 1-1,,true,,249,786,1,1,http://localhost:8000/img/posters/80.png,0,0,0
+1762270524896,3,"Выбрать фильм, зал, время-6",304,Not Modified,Thread Group 1-1,,true,,249,786,1,1,http://localhost:8000/img/posters/82.png,0,0,0
+1762270524900,2,"Выбрать фильм, зал, время-7",304,Not Modified,Thread Group 1-1,,true,,249,786,1,1,http://localhost:8000/img/posters/81.png,0,0,0
+1762270525944,52,Забранировать место,200,OK,Thread Group 1-1,text,true,,8571,6138,1,1,http://localhost:8000/client/payment.php,9,0,0
+1762270525944,10,Забранировать место-0,200,OK,Thread Group 1-1,text,true,,5062,699,1,1,http://localhost:8000/client/payment.php,9,0,0
+1762270525965,4,Забранировать место-1,304,Not Modified,Thread Group 1-1,,true,,249,792,1,1,http://localhost:8000/client/css/normalize.css,0,0,0
+1762270525965,4,Забранировать место-2,304,Not Modified,Thread Group 1-1,,true,,249,789,1,1,http://localhost:8000/client/css/styles.css,0,0,0
+1762270525965,4,Забранировать место-3,304,Not Modified,Thread Group 1-1,,true,,248,785,1,1,http://localhost:8000/client/js/index.js,0,0,0
+1762270525965,31,Забранировать место-4,200,OK,Thread Group 1-1,text,true,,2016,715,1,1,"https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900&subset=cyrillic,cyrillic-ext,latin-ext",30,0,0
+1762270525965,4,Забранировать место-5,304,Not Modified,Thread Group 1-1,,true,,249,786,1,1,http://localhost:8000/img/posters/80.png,0,0,0
+1762270525965,4,Забранировать место-6,304,Not Modified,Thread Group 1-1,,true,,249,786,1,1,http://localhost:8000/img/posters/82.png,0,0,0
+1762270525970,2,Забранировать место-7,304,Not Modified,Thread Group 1-1,,true,,249,786,1,1,http://localhost:8000/img/posters/81.png,0,0,0
+1762270527001,5,Получить QR-код для оплаты,200,OK,Thread Group 1-1,text,true,,338,709,1,1,http://localhost:8000/client/scripts/sale_save.php,5,0,0
+1762270523290,591,Test,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-1,,true,,99671,19217,1,1,null,48,3128,15
